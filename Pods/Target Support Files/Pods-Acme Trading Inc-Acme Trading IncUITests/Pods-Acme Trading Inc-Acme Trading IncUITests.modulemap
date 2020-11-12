@@ -1,0 +1,6 @@
+framework module Pods_Acme_Trading_Inc_Acme_Trading_IncUITests {
+  umbrella header "Pods-Acme Trading Inc-Acme Trading IncUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

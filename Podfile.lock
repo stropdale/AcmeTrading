@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - JWTDecode (2.5.0)
+  - KeychainSwift (19.0.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - JWTDecode (~> 2.4)
+  - KeychainSwift (~> 19.0)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - JWTDecode
+    - KeychainSwift
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  JWTDecode: d4c176a28a29f7e6f9abf5c90ad3002f69b98c7c
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+
+PODFILE CHECKSUM: 94bda5df7c51d3c8f57be1ac18565d8b0e7437be
+
+COCOAPODS: 1.9.1
